@@ -1,0 +1,12 @@
+  Writing Python codes 
+in order to learn Python , you need to able to write and excutes codes.
+
+
+  # Python Console (Shell)
+  Python Console also known as shell,allows to execute Python code lin by line.
+  accsess THE Python console by opening the command.
+  To Start using the console type the following and hit enter
+       name = "abc"
+   Again , type the following and hit enter
+        print(name)
+   After that should see this abc                                                

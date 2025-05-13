@@ -1,0 +1,8 @@
+  Understanding of the Python programming language from basics to advanced.
+
+  Python Prerequisites :
+     1)Computer basics.
+       2)knowledge of installing a software .<vscode>
+          3)A Compiler
+
+          

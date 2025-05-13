@@ -1,0 +1,10 @@
+# What is Python?
+   Ans: Python is the one of the most popular programming language created by Guido van Rossum and its was first implemented in 1989.
+#What is Python used for ?
+  Ans: 1)Web Devlopment
+         2)Machine Learning
+           3)Data Science
+              4)Scripting
+          And Many more...
+  #What is the latest version of Python /
+    Ans : Python 3 is the latest version of Python.        

@@ -1,0 +1,5 @@
+  To install Python go to https://www.python.org/downloads/ then download the latest version. <Python3>
+     make sure that check " add Python 3.8 to path " for easier installation.
+
+     #Python Interpreter (Compiler)
+        A Python interpreter is a program that executes Python codes. 
